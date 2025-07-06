@@ -1,1 +1,24 @@
-# FILE-INTEGRITY-CHECKER
+✅FILE INTEGRITY CHECKER in frontend 
+
+        ✳️ Instructions :
+
+             ◀️ BUILD A TOOL TO MONITOR CHANGES IN FILES BY CALCULATING AND COMPARING HASH VALUES.
+
+             ▶️ DELIVERABLE: A PYTHON SCRIPT USING LIBRARIES LIKE HASHLIB TO ENSURE FILE INTEGRITY.
+
+
+
+          📑  In it we use python for File integrity Checker 
+          🧑‍💻  In it we 
+                 ⏺️   import os 
+                 ⏺️   import hashlib
+                 ⏺️   import json
+
+           📑A another file whose name is  
+           
+                🗒️  file_hashes.json
+
+                                {
+                                   "file_hashes.json": "7fe99ff2ad61e79b1e2aa0cdb53405a4cd12483a040e674ced45b3951bfdf575",
+                                   "file_integrity_checker_tool.py": "0789a729d20900f52fd5499bc006d75bbaf43db9a756d6fc7a192d2d1892e903"
+                                }
