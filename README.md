@@ -1,4 +1,4 @@
-✅FILE INTEGRITY CHECKER in frontend 
+✅FILE INTEGRITY CHECKER 
 
         ✳️ Instructions :
 
