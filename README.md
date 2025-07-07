@@ -8,6 +8,18 @@
 
 
 
+COMPANY: CODTECH IT SOLUTIONS PVT. LTD.
+
+NAME: Neha Sharma
+
+INTERN ID: CT06DN1956
+
+DOMAIN: Cyber Security & Ethical Hacking
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTHOSH
+
           📑  In it we use python for File integrity Checker 
           🧑‍💻  In it we 
                  ⏺️   import os 
